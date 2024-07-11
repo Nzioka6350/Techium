@@ -393,7 +393,10 @@
     overflow: hidden;
   }
   
+  
   .card-work:hover .card-outer {
+
+
     transform: scale(0.95);
   }
   
